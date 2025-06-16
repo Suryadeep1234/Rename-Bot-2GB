@@ -98,9 +98,9 @@ If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upt
 
 For Example :-
 
-<code>By :- @MadflixBotz</code>
+<code>By :- @RDX_PVT_LTD</code>
 
-💬 For Any Help Contact @MadflixSupport
+💬 For Any Help Contact @RDX_PVT_LTD
 """
 
 
