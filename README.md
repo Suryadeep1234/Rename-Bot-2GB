@@ -88,7 +88,7 @@ status - Check bot status [FOR ADMINS USE ONLY].
 ### 😍 BOTS CHANNEL 😍
 - [RDX OFFICIAL](https://t.me/RDX_PVT_LTD)
 ### 💕 CONTACT DEVELOPER 💕
-- [RDX Developer](@RDX1444)
+- [RDX Developer](https://t.me/RDX1444)
   
 - [RDX OFFICIAL](https://t.me/RDX_PVT_LTD)
 
